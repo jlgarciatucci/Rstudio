@@ -91,28 +91,10 @@ print('\n',bold_print('First five entries of df_rent_prices:'))
 df_rent_prices.head()
 ```
 
-    [1m[90m Shape of df_rent_prices:[0m (584, 8)
+**Shape of df_rent_prices:** (584, 8)
     
-     [1m[90mFirst five entries of df_rent_prices:[0m
-    
+**First five entries of df_rent_prices:**
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -197,9 +179,9 @@ print('\n',bold_print('First five entries of df_noise:'))
 df_noise.head()
 ```
 
-    [1m[90m Shape of df_noise:[0m (18980, 7)
+Shape of df_noise:[0m (18980, 7)
     
-     [1m[90mFirst five entries of df_noise:[0m
+First five entries of df_noise:[0m
     
 
 
